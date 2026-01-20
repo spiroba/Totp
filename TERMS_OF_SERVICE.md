@@ -129,8 +129,7 @@ If any provision of these Terms is found to be unenforceable or invalid, that pr
 
 For questions about these Terms, please contact:
 
-- **Email**: support@spiro.dev
-- **GitHub**: [github.com/borisspiro](https://github.com/borisspiro)
+- **Email**: spiro.boris@yandex.ru
 
 ## Acknowledgment
 
